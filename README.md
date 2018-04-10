@@ -1,4 +1,4 @@
-#Cat Mario Blue
+# Cat Mario Blue
 
 This is a college work introduced in the OOP discipline (Object-Oriented Programming) whose objective is to test the general knowledge of the players.
 
